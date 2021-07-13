@@ -11,6 +11,9 @@ Lightroom SDK Minimum Version: 4.0
 
 Version history
 
+0.962 - 7/13/2021
+Testing 
+
 0.961 - 4/07/2017
 
 * Fixed bug preventing hashes from being generated when OS is not in English
